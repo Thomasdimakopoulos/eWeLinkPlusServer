@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="org.elisa.controler.eWeLinkControlLib.AppTest" time="0.057" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="16"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Users\ThomasDimakopoulos\eclipse-workspace-OSPD\eWeLinkControlLib\target\test-classes;C:\Users\ThomasDimakopoulos\eclipse-workspace-OSPD\eWeLinkControlLib\target\classes;C:\Users\ThomasDimakopoulos\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\ThomasDimakopoulos\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\ThomasDimakopoulos\.m2\repository\com\github\realzimboguy\ewelink\api\ewelink-api-java\2.1.2-RELEASE\ewelink-api-java-2.1.2-RELEASE.jar;C:\Users\ThomasDimakopoulos\.m2\repository\com\google\code\gson\gson\2.8.6\gson-2.8.6.jar;C:\Users\ThomasDimakopoulos\.m2\repository\org\slf4j\slf4j-api\1.7.25\slf4j-api-1.7.25.jar;C:\Users\ThomasDimakopoulos\.m2\repository\org\apache\logging\log4j\log4j-api\2.7\log4j-api-2.7.jar;C:\Users\ThomasDimakopoulos\.m2\repository\org\apache\logging\log4j\log4j-core\2.7\log4j-core-2.7.jar;C:\Users\ThomasDimakopoulos\.m2\repository\org\apache\logging\log4j\log4j-slf4j-impl\2.7\log4j-slf4j-impl-2.7.jar;C:\Users\ThomasDimakopoulos\.m2\repository\org\java-websocket\Java-WebSocket\1.5.1\Java-WebSocket-1.5.1.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="user.timezone" value="Europe/Bucharest"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="java.vm.specification.version" value="16"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.boot.library.path" value="D:\downloads\Program-Downloads\eclipse-jee-2021-09-R-win32-x86_64\eclipse\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149\jre\bin"/>
+    <property name="sun.java.command" value="C:\Users\THOMAS~1\AppData\Local\Temp\surefire15408076231545092809\surefirebooter9762244278773147966.jar C:\Users\ThomasDimakopoulos\AppData\Local\Temp\surefire15408076231545092809 2021-11-26T23-06-22_659-jvmRun1 surefire18127135975740000391tmp surefire_0111670555171683909tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="C:\Users\ThomasDimakopoulos\eclipse-workspace-OSPD\eWeLinkControlLib\target\test-classes;C:\Users\ThomasDimakopoulos\eclipse-workspace-OSPD\eWeLinkControlLib\target\classes;C:\Users\ThomasDimakopoulos\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\ThomasDimakopoulos\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\ThomasDimakopoulos\.m2\repository\com\github\realzimboguy\ewelink\api\ewelink-api-java\2.1.2-RELEASE\ewelink-api-java-2.1.2-RELEASE.jar;C:\Users\ThomasDimakopoulos\.m2\repository\com\google\code\gson\gson\2.8.6\gson-2.8.6.jar;C:\Users\ThomasDimakopoulos\.m2\repository\org\slf4j\slf4j-api\1.7.25\slf4j-api-1.7.25.jar;C:\Users\ThomasDimakopoulos\.m2\repository\org\apache\logging\log4j\log4j-api\2.7\log4j-api-2.7.jar;C:\Users\ThomasDimakopoulos\.m2\repository\org\apache\logging\log4j\log4j-core\2.7\log4j-core-2.7.jar;C:\Users\ThomasDimakopoulos\.m2\repository\org\apache\logging\log4j\log4j-slf4j-impl\2.7\log4j-slf4j-impl-2.7.jar;C:\Users\ThomasDimakopoulos\.m2\repository\org\java-websocket\Java-WebSocket\1.5.1\Java-WebSocket-1.5.1.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\ThomasDimakopoulos"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2021-07-20"/>
+    <property name="java.home" value="D:\downloads\Program-Downloads\eclipse-jee-2021-09-R-win32-x86_64\eclipse\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149\jre"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\Users\ThomasDimakopoulos\eclipse-workspace-OSPD\eWeLinkControlLib"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\THOMAS~1\AppData\Local\Temp\surefire15408076231545092809\surefirebooter9762244278773147966.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="16.0.2+7-67"/>
+    <property name="user.name" value="ThomasDimakopoulos"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\ThomasDimakopoulos\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\THOMAS~1\AppData\Local\Temp\"/>
+    <property name="java.version" value="16.0.2"/>
+    <property name="user.dir" value="C:\Users\ThomasDimakopoulos\eclipse-workspace-OSPD\eWeLinkControlLib"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="D:\downloads\Program-Downloads\eclipse-jee-2021-09-R-win32-x86_64\eclipse\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;D:/downloads/Program-Downloads/eclipse-jee-2021-09-R-win32-x86_64/eclipse//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149/jre/bin/server;D:/downloads/Program-Downloads/eclipse-jee-2021-09-R-win32-x86_64/eclipse//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149/jre/bin;C:\Program Files\Microsoft MPI\Bin\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;D:\Java\jdk-11.0.6\bin;D:\Program Files (x86)\GitExtensions\;C:\ProgramData\chocolatey\bin;D:\WSO2\Enterprise Integrator\6.5.0\bin\..\bin;D:\WSO2\API Manager\2.6.0\\bin;C:\Program Files\PuTTY\;C:\Program Files (x86)\Bitvise SSH Client;C:\Program Files (x86)\WinMerge;C:\Program Files\nodejs\;C:\Program Files\TortoiseSVN\bin;D:\Dev\Apache-Software\maven\bin;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\130\Tools\B;C:\Program Files\dotnet\;C:\Program Files\Microsoft\Web Platform Installer\;d:\Program Files\Liquid Technologies\Liquid Studio 2019\XmlDataBinder17\Redist17\cpp\win32\bin;d:\Program Files\Liquid Technologies\Liquid Studio 2019\XmlDataBinder17\Redist17\cpp\win64\bin;C:\PROGRA~2\Groovy\GROOVY~1.0\bin;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;D:\WSO2\EnterpriseIntegrator\6.6.0\bin\..\bin;D:\WSO2\APIManager\3.1.0\bin\..\bin;D:\WSO2\EnterpriseIntegrator\7.0.2\micro-integrator\\bin;D:\WSO2\EnterpriseIntegrator\7.0.2\streaming-integrator\\bin;D:\Dev\kotlin\bin;C:\Program Files\Azure Data Studio\bin;D:\WSO7\EnterpriseIntegrator\7.1.0\micro-integrator\\bin;D:\WSO7\EnterpriseIntegrator\7.1.0\micro-integrator-dashboard\\bin;D:\WSO7\EnterpriseIntegrator\7.1.0\streaming-integrator\\bin;C:\Program Files (x86)\dotnet\;D:\WSO7\APIManager\3.2.0\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;d:\Program Files\Git\cmd;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Users\ThomasDimakopoulos\AppData\Local\Microsoft\WindowsApps;C:\Users\ThomasDimakopoulos\AppData\Roaming\npm;C:\Users\ThomasDimakopoulos\.dotnet\tools;D:\Utilities\SysinternalsSuite;D:\Utilities\nirsoft_package_enc_1.23.3\NirSoft\x64;D:\Utilities\nirsoft_package_enc_1.23.3\NirSoft;C:\Program Files (x86)\Midnight Commander;C:\Gradle\gradle-6.0\bin;D:\Program Files\Git\;D:\Dev\kotlin\bin;D:\ThomasFiles\Documents\WindowsPowerShell\Scripts;d:\Users\ThomasDimakopoulos\AppData\Local\Programs\Azure Data Studio\bin;C:\Users\ThomasDimakopoulos\.dotnet\tools;C:\Program Files\Azure Data Studio\bin;D:\JetBrains\IntelliJ IDEA 2020.3.1\bin;D:\JetBrains\DataGrip 2020.3.1\bin;C:\Users\ThomasDimakopoulos\AppData\Local\Microsoft\WindowsApps;C:\ProgramData\chocolatey\lib\Git-TF\Tools\git-tf-2.0.3.20131219;C:\Users\ThomasDimakopoulos\.dotnet\tools;;D:\downloads\Program-Downloads\eclipse-jee-2021-09-R-win32-x86_64\eclipse;;."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="16.0.2+7-67"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="60.0"/>
+  </properties>
+  <testcase name="shouldAnswerWithTrue" classname="org.elisa.controler.eWeLinkControlLib.AppTest" time="0.004"/>
+</testsuite>

@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: ThomasDimakopoulos
+Build-Jdk: 16.0.2
+Class-Path: lib/ewelink-api-java-2.1.2-RELEASE.jar lib/gson-2.8.6.jar li
+ b/slf4j-api-1.7.25.jar lib/log4j-api-2.7.jar lib/log4j-core-2.7.jar lib
+ /log4j-slf4j-impl-2.7.jar lib/Java-WebSocket-1.5.1.jar
+Main-Class: org.elisa.controler.eWeLinkControlLib.App
+Created-By: Maven Integration for Eclipse
+
