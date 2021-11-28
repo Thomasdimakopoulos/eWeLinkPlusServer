@@ -84,19 +84,19 @@ EweLink eweLink;
 				if (rsp.getError() == null) {
 
 					// normal scenario
-					StringBuilder sb = new StringBuilder();
-					sb.append("Device:").append(rsp.getDeviceid()).append(" - ");
-					if (rsp.getDeviceid().equalsIgnoreCase("1001108712"))
-						System.out.println("**** Trigger *****");
-					if (rsp.getParams() != null) {
-						sb.append("Switch:").append(rsp.getParams().getSwitch()).append(" - ");
+					//StringBuilder sb = new StringBuilder();
+					//sb.append("Device:").append(rsp.getDeviceid()).append(" - ");
+					//if (rsp.getDeviceid().equalsIgnoreCase("1001108712"))
+						//System.out.println("**** Trigger *****");
+					//if (rsp.getParams() != null) {
+						//sb.append("Switch:").append(rsp.getParams().getSwitch()).append(" - ");
 //	                        sb.append("Voltage:").append(rsp.getParams().getVoltage()).append(" - ");
 //	                        sb.append("Power:").append(rsp.getParams().getPower()).append(" - ");
 //	                        sb.append("Current:").append(rsp.getParams().getCurrent()).append(" - ");
 						// rsp.getParams().get
-					}
+//					}
 
-					System.out.println(sb.toString());
+					//System.out.println(sb.toString());
 
 				} else if (rsp.getError() == 0) {
 					// this is from a login response
